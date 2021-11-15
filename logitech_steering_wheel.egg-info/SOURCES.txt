@@ -1,0 +1,14 @@
+setup.py
+./lib/x64/LogitechSteeringWheelEnginesWrapper.dll
+./lib/x86/LogitechSteeringWheelEnginesWrapper.dll
+lib/x64/LogitechSteeringWheelEnginesWrapper.dll
+lib/x86/LogitechSteeringWheelEnginesWrapper.dll
+logitech_steering_wheel/__init__.py
+logitech_steering_wheel/_controllerproperties.py
+logitech_steering_wheel/_enums.py
+logitech_steering_wheel/_state.py
+logitech_steering_wheel/_wrapper.py
+logitech_steering_wheel.egg-info/PKG-INFO
+logitech_steering_wheel.egg-info/SOURCES.txt
+logitech_steering_wheel.egg-info/dependency_links.txt
+logitech_steering_wheel.egg-info/top_level.txt
