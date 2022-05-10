@@ -12,6 +12,7 @@ setup(
     author_email='o.siebinga@tudelft.nl',
     description='A wrapper to use the Logitech Steering Wheel SDK in Python',
     long_description=long_description,
+    long_description_content_type="text/markdown",
     url="https://github.com/tud-hri/logitech_steering_wheel",
     project_urls={
         "Bug Tracker": "https://github.com/tud-hri/logitech_steering_wheel/issues",
@@ -19,7 +20,7 @@ setup(
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: Windows",
+        "Operating System :: Microsoft :: Windows",
     ],
     data_files=[(
         'lib\\site-packages\\logitech_steering_wheel\\lib\\x64', [".\\lib\\x64\\LogitechSteeringWheelEnginesWrapper.dll"]),(
